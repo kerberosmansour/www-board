@@ -1,6 +1,6 @@
 
 ### Officers
-* [Martin Knobloch](mailto:martin.knobloch@owasp.org){:target='_blank'}, Chair
-* [Owen Pendlebury](mailto:owen.pendlebury@owasp.org){:target='_blank'}, Vice Chair
-* [Sherif Mansour](mailto:sherif.mansour@owasp.org){:target='_blank'}, Treasurer
-
+* [Owen Pendlebury](mailto:owen.pendlebury@owasp.org){:target='_blank'}, Chair
+* [Sherif Mansour](mailto:sherif.mansour@owasp.org){:target='_blank'}, Vice Chair
+* [Vandana Verma Sehgal](mailto:vandana.verma@owasp.org){:target='_blank'}, Treasurer
+* [Gary Robinson](mailto:gary.robinson@owasp.org){:target='_blank'}, Secretary
